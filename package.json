@@ -1,0 +1,10 @@
+{
+	"name": "kivweb-4",
+	"version": "1.0.0",
+	"description": "EXAMPLE #4",
+	"main": "chat.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mrtnzlml/kivweb-4.git"
+	}
+}
